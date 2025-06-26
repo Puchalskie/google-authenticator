@@ -8,7 +8,8 @@ open standards developed by the
 
 This GitHub project is specifically for the Google Authenticator apps which
 target the Blackberry and iOS mobile platforms.
-
+#
+#
 Other related Google Authenticator opensource projects can be found as noted
 below:
 - [Android app](https://github.com/google/google-authenticator-android).
